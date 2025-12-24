@@ -42,10 +42,11 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🧊 3D Contributions
 <div align="center">
 
-![snake gif](https://github.com/NaurbievDjamaldin/NaurbievDjamaldin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=NaurbievDjamaldin&theme=dark" />
 
 </div>
+
 
