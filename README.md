@@ -8,26 +8,25 @@
 
 ---
 
-## 🛠 Languages and Tools:
+## 🛠 Languages and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,linux,git" />
 </div>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaurbievDjamaldin&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaurbievDjamaldin&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaurbievDjamaldin&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaurbievDjamaldin&layout=compact&theme=tokyonight" />
 
 </div>
 
-
 ---
 
-## 🔗 Connect with me:
+## 🔗 Connect with me
 <div align="center">
 
 <a href="mailto:naurbiev@mail.ru">
@@ -42,11 +41,10 @@
 
 ---
 
-## 🧊 3D Contributions
+## 🌌 Activity
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=NaurbievDjamaldin&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaurbievDjamaldin&theme=tokyo-night" />
 
 </div>
-
 
