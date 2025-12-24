@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Djamaldin Naurbiev
 
-### 🐍 Python Developer | Experience in C and C++
+### 🐍 Python Developer | Experience in Java
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🛠 Languages and Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,git" />
 </div>
 
 ---
@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Email-naurbiev@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://t.me/ipugoev">
-  <img src="https://img.shields.io/badge/Telegram-@ipugoev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/NDDCEOAIS">
+  <img src="https://img.shields.io/badge/Telegram-@NDDCEOAIS-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </div>
@@ -47,3 +47,4 @@
 ![snake gif](https://github.com/NaurbievDjamaldin/NaurbievDjamaldin/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
