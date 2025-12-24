@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NaurbievDjamaldin/NaurbievDjamaldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Djamaldin Naurbiev
 
-Here are some ideas to get you started:
+### 🐍 Python Developer | Experience in C and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🛠 Languages and Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git" />
+</div>
+
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaurbievDjamaldin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaurbievDjamaldin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔗 Connect with me:
+<div align="center">
+
+<a href="mailto:naurbiev@mail.ru">
+  <img src="https://img.shields.io/badge/Email-naurbiev@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/ipugoev">
+  <img src="https://img.shields.io/badge/Telegram-@ipugoev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+<div align="center">
+
+![snake gif](https://github.com/NaurbievDjamaldin/NaurbievDjamaldin/blob/output/github-contribution-grid-snake.svg)
+
+</div>
