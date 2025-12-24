@@ -10,7 +10,7 @@
 
 ## 🛠 Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,go,linux,git" />
 </div>
 
 ---
@@ -45,6 +45,8 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaurbievDjamaldin&theme=tokyo-night" />
+
+</div>
 
 </div>
 
